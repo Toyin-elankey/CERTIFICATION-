@@ -1,6 +1,6 @@
 # Cybersecurity Certification Portfolio
 
-Professional certificates and course credentials in **cybersecurity**, **networking** and **Linux**, earned in 2026 by **Emmanuel Oluwatoyin Ademoyega**. Each certificate is stored as a PDF in this repository, previewed below, and listed with its issuer and verification route.
+Professional certificates and course credentials in **cybersecurity**, **networking** and **Linux**, earned by **Emmanuel Oluwatoyin Ademoyega**. Each certificate is stored as a PDF in this repository, previewed below, and listed with its issuer and verification route.
 
 ## At a glance
 
@@ -10,20 +10,8 @@ Professional certificates and course credentials in **cybersecurity**, **network
 | **Certificates** | 8 documents covering 7 courses and programs |
 | **Categories** | Cybersecurity (5) · Networking (1) · Linux (2) |
 | **Issuers** | ISC2 · Forage with Commonwealth Bank · TS Academy · Coursera (authorized by IBM and by Cisco) · Cisco Networking Academy |
-| **Period** | February 2026 – October 2026 |
-
-## Contents
-
-- [Certification summary](#certification-summary)
-- [Certifications by category](#certifications-by-category)
-- [Skills and competencies](#skills-and-competencies)
-- [Repository structure](#repository-structure)
-- [Disclaimer](#disclaimer)
-- [License](#license)
 
 ## Certification summary
-
-Listed newest first. Each title links to its certificate PDF.
 
 | # | Certification | Issuer | Category | Date | Verification |
 |:-:|---|---|:-:|---|---|
@@ -136,25 +124,6 @@ Each card links to the certificate PDF and, where one exists, to the issuer's ve
 | Networking | Networking basics (Cisco Networking Academy) |
 | Linux | Command-line basics; navigating directories and listing files; creating, moving and deleting files and directories; searching and extracting data; turning repetitive commands into simple scripts; knowing where system information is stored; querying networking configuration; managing users; managing file permissions and ownership (Linux Unhatched) |
 
-## Repository structure
-
-```text
-CERTIFICATION-/
-├── README.md                  # This document
-├── LICENSE                    # MIT License
-├── assets/
-│   └── previews/              # Preview images used in this README
-└── certificates/
-    ├── cybersecurity/         # ISC2, Forage, TS Academy, Coursera (IBM and Cisco courses)
-    ├── networking/            # Cisco Networking Academy
-    └── linux/                 # Cisco Networking Academy (Linux Unhatched)
-```
-
-### Adding a certificate
-
-1. Save the PDF in the matching folder under `certificates/` using the `Issuer_Certificate-Name.pdf` pattern.
-2. Add a preview image to `assets/previews/`.
-3. Add a row to the summary table and a card to the matching category section.
 
 ## Disclaimer
 
@@ -164,6 +133,4 @@ Certificates are reproduced for portfolio and verification purposes. Names, logo
 
 This portfolio is licensed under the [MIT License](LICENSE) (© 2026 Emmanuel Oluwatoyin Ademoyega). The certificate PDFs and preview images are reproduced for portfolio and verification purposes and remain the property of their respective issuers, as noted in the [Disclaimer](#disclaimer).
 
----
 
-*Last updated October 2026.*
