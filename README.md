@@ -19,6 +19,7 @@ Professional certificates and course credentials in **cybersecurity**, **network
 - [Skills and competencies](#skills-and-competencies)
 - [Repository structure](#repository-structure)
 - [Disclaimer](#disclaimer)
+- [License](#license)
 
 ## Certification summary
 
@@ -140,6 +141,7 @@ Each card links to the certificate PDF and, where one exists, to the issuer's ve
 ```text
 CERTIFICATION-/
 ├── README.md                  # This document
+├── LICENSE                    # MIT License
 ├── assets/
 │   └── previews/              # Preview images used in this README
 └── certificates/
@@ -157,6 +159,10 @@ CERTIFICATION-/
 ## Disclaimer
 
 Certificates are reproduced for portfolio and verification purposes. Names, logos and trademarks belong to their respective owners, including ISC2, Cisco, IBM, Coursera, Forage, Commonwealth Bank, TS Academy and NDG.
+
+## License
+
+This portfolio is licensed under the [MIT License](LICENSE) (© 2026 Emmanuel Oluwatoyin Ademoyega). The certificate PDFs and preview images are reproduced for portfolio and verification purposes and remain the property of their respective issuers, as noted in the [Disclaimer](#disclaimer).
 
 ---
 
