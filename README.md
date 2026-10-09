@@ -28,7 +28,7 @@ Listed newest first. Each title links to its certificate PDF.
 |:-:|---|---|:-:|---|---|
 | 1 | [Security Operations Center (SOC)](certificates/cybersecurity/Coursera_Security-Operations-Center-SOC-Cisco.pdf) | Coursera (authorized by Cisco) | Cybersecurity | 8 Oct 2026 | [coursera.org/verify/YW5D89QSPGHU](https://coursera.org/verify/YW5D89QSPGHU) |
 | 2 | [Cybersecurity Architecture](certificates/cybersecurity/Coursera_Cybersecurity-Architecture-IBM.pdf) | Coursera (authorized by IBM) | Cybersecurity | 25 Sep 2026 | [coursera.org/verify/I3JMYVL2P529](https://coursera.org/verify/I3JMYVL2P529) |
-| 3 | [Cybersecurity Training Programme (4 Months)](certificates/cybersecurity/TS-Academy_Cybersecurity-Training-Programme.pdf) | TS Academy | Cybersecurity | 21 Aug 2026 | Certificate ID `TS5PFBW7DZTJ72` |
+| 3 | [Cybersecurity Training Program (4 Months)](certificates/cybersecurity/TS-Academy_Cybersecurity-Training-Programme.pdf) | TS Academy | Cybersecurity | 21 Aug 2026 | Certificate ID `TS5PFBW7DZTJ72` |
 | 4 | [Introduction to Cybersecurity Job Simulation](certificates/cybersecurity/Forage_Introduction-to-Cybersecurity-Job-Simulation.pdf) | Forage, with Commonwealth Bank | Cybersecurity | 3 Aug 2026 | Verification codes on certificate |
 | 5 | [Networking Basics](certificates/networking/Cisco_Networking-Basics.pdf) | Cisco Networking Academy | Networking | 22 Apr 2026 | Certificate ID `b83bfd5d-3f04-4285-9ab0-358d1b4d39f2` |
 | 6 | [Linux Unhatched: Certificate of Completion](certificates/linux/Cisco_Linux-Unhatched_Certificate-of-Completion.pdf) | Cisco Networking Academy | Linux | 19 Mar 2026 | None printed |
@@ -62,10 +62,10 @@ Each card links to the certificate PDF and, where one exists, to the issuer's ve
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="certificates/cybersecurity/TS-Academy_Cybersecurity-Training-Programme.pdf"><img src="assets/previews/ts-academy-cybersecurity-training-programme.jpg" alt="TS Academy cybersecurity training programme certificate preview" width="100%"></a>
-      <br><strong>Cybersecurity Training Programme (4 Months)</strong>
+      <a href="certificates/cybersecurity/TS-Academy_Cybersecurity-Training-Programme.pdf"><img src="assets/previews/ts-academy-cybersecurity-training-programme.jpg" alt="TS Academy cybersecurity training program certificate preview" width="100%"></a>
+      <br><strong>Cybersecurity Training Program (4 Months)</strong>
       <br>TS Academy · 21 Aug 2026
-      <br>Completed a four-month cybersecurity training programme, satisfying all programme requirements.
+      <br>Completed a four-month cybersecurity training program, satisfying all program requirements.
       <br><a href="certificates/cybersecurity/TS-Academy_Cybersecurity-Training-Programme.pdf">View PDF</a> · Certificate ID <code>TS5PFBW7DZTJ72</code>
     </td>
     <td align="center" valign="top" width="50%">
